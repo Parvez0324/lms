@@ -52,6 +52,9 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
     <style>
+        [x-cloak] {
+            display: none !important;
+        }
         html[dir="rtl"] * {
             font-family: 'Cairo', 'Tajawal', system-ui, -apple-system, sans-serif !important;
         }
